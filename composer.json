@@ -1,0 +1,16 @@
+{
+    "name": "kart/orm",
+    "description": "Library for database operations",
+    "type": "library",
+    "license": "GNU Lesser GPL v2.1",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kart\\Orm\\": "src/"
+        }
+    }
+}
