@@ -1,5 +1,7 @@
 <?php
 
+namespace Kart\Orm;
+
 class Client
 {
     private string $host;
