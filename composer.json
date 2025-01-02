@@ -3,10 +3,8 @@
     "description": "Library for database operations",
     "type": "library",
     "license": "LGPL-2.1-or-later",
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=7.4.0",
-        "ext-json": "*"
+        "php": ">=7.4.0"
     },
     "autoload": {
         "psr-4": {
