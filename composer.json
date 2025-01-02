@@ -2,7 +2,7 @@
     "name": "kart/orm",
     "description": "Library for database operations",
     "type": "library",
-    "license": "GNU Lesser GPL v2.1",
+    "license": "LGPL-2.1-or-later",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.0",
